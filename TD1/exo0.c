@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(const int argc, char *argv[] ){
-    //argc : nombre d’arguments, argv : le tableau contenant la valeur des arguments
+    // argc : nombre d’arguments
+    // argv : le tableau contenant la valeur des arguments
     int a = 1 ;
     printf(" le chiffre est %d \n ", a);
 
